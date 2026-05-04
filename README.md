@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Muhammad Alfin Ramadhan a.k.a @alpinjolala
+- 👋 Hi, I’m Muhammad Alfin Ramadhan
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Front End Developer
+- 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on anything that i can do.
-- 📫 How to reach me ... Follow me on my instagram account (reactivated account), or send email to rm.alfin@gmail.com
+- 📫 Learn - Grow - Connect
 
 <!---
 alpinjolala/alpinjolala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
