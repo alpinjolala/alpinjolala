@@ -39,10 +39,10 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- Ganti 'YOUR_GITHUB_USERNAME' dengan username GitHub Anda -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=alpinjolala&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpinjolala&theme=radium&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -50,9 +50,9 @@
 ### 🤝 Connect with me
 
 <div align="left">
-  <!-- Ganti '#' dengan link profil asli Anda -->
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="[LinkedIn](https://www.linkedin.com/in/alpinjolala/)" />
+  
+  <a href="https://www.linkedin.com/in/alpinjolala/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:alfin.ramadhan@uin-antasari.ac.id">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
