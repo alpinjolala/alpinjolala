@@ -18,7 +18,7 @@
 - 👀 I’m highly interested in **continuous learning** and exploring how technology can solve real-world problems.
 - 🌱 I’m currently deep-diving into **Full Stack Development** to expand my technical skill set.
 - 💞️ I’m looking to collaborate on **open-source projects, educational tools, or anything that I can contribute to**.
-- 📫 How to reach me: Let's connect! (Tambahkan link email/LinkedIn Anda di bagian bawah)
+- 📫 How to reach me: Let's connect!
 
 <br/>
 
