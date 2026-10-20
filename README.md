@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Muhammad Alfin Ramadhan! 👋</h1>
-  <h3>Lecturer in Islamic Library & Information Science | Full Stack Developer Enthusiast</h3>
+  <h3>Lecturer in Islamic Library & Information Science | Long Life Learner</h3>
   <img src="https://komarev.com/ghpvc/?username=alfinramadhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
